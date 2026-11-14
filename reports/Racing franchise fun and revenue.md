@@ -28,7 +28,7 @@ None of the three is primarily a microtransaction business. Each sells a full-pr
 
 | Franchise | Scale | Main revenue layers |
 |---|---|---|
-| Gran Turismo | Over 100 million units sold in as of June 2025 (official). GT7: about 12.7 million copies and $840 million (estimate, November 2026) | Premium sale; credit packs ($2.49 to $19.99); one paid DLC ($29.99, December 2025); car, tyre and wheel-maker partnerships |
+| Gran Turismo | Over 100 million units sold as of June 2025 (official). GT7: about 12.7 million copies and $840 million (estimate, November 2026) | Premium sale; credit packs ($2.49 to $19.99); one paid DLC ($29.99, December 2025); car, tyre and wheel-maker partnerships |
 | Forza Horizon | Horizon 5: over 53 million players, about 23 million via Game Pass (estimate). Horizon 6: 6 million players in its first week (official) | Game Pass reach; $69.99 standard and $120 premium with paid early access; late discounts; PS5 release after costs are recovered |
 | Need for Speed | About 150 million units (secondary figure, unchanged since 2013); over $2.7 billion by 2009 (official, dated) | Premium sale; season passes; one free-to-play mobile game; brand licensing |
 
